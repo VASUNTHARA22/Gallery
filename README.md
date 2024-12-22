@@ -62,15 +62,6 @@ Publish the website in the given URL.
 </html>
 ```
 # OUTPUT:
-![alt text](<Screenshot 2024-12-21 115101-1.png>)
-
-![alt text](<Screenshot 2024-12-21 115230.png>)
-
-![alt text](<Screenshot 2024-12-21 115243.png>)
-
-![alt text](<Screenshot 2024-12-21 115256.png>)
-
-![alt text](<Screenshot 2024-12-21 115311.png>)
 
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
